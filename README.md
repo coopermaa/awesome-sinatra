@@ -72,8 +72,11 @@ awesome-sinatra [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38
   [HTML 5 Boilerplate](http://html5boilerplate.com/), [Compass](http://compass-style.org/), [CoffeeScript](http://coffeescript.org/)
   and [Sprockets](https://github.com/sstephenson/sprockets).
 * [sinatra-boilerplate](https://github.com/neverstopbuilding/sinatra-boilerplate) - Sinatra, Zurb 
-  Foundation, Guard, Slim, Compass, RSpec, Capybarra... All the bling ready to go.  
-* [sinatra-boilerplate](https://github.com/mislav/sinatra-boilerplate) - Sinatra + Haml + Sass + Compass + Bourbon + CoffeeScript.   
+  Foundation, Guard, Slim, Compass, RSpec, Capybarra... All the bling ready to go.
+* [sinatra-boilerplate](https://github.com/mislav/sinatra-boilerplate) - Sinatra + Haml + Sass + Compass + Bourbon + CoffeeScript.
+* [sinatra-foundation-skeleton](https://github.com/jerodsanto/sinatra-foundation-skeleton) - A skeleton 
+  Sinatra application which utilizes Zurb's Foundation 3 framework.
+* [sinatra-twitter-bootstrap](https://github.com/mfojtik/sinatra-twitter-bootstrap) - Twitter Bootstrap Sinatra extension with HAML helpers.  
 
 ## Continuous Integration
 
