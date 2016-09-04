@@ -49,6 +49,7 @@ awesome-sinatra [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38
 * Groovy: [Graffiti](https://github.com/webdevwilson/graffiti)
 * Java: [Spark](https://github.com/perwendel/spark) 
 * JavaScript: [Express](https://github.com/expressjs/express), [Sammy](https://github.com/quirkey/sammy)
+* Julia: [Moresel.jl](https://github.com/JuliaArchive/Morsel.jl)
 * .NET: [Martini](https://github.com/thegrubbsian/Martin), [Nina](https://github.com/jondot/Nina)
 * PHP: [FatFree](https://github.com/bcosca/fatfree), [Fitzgerald](https://github.com/gregmolnar/fitzgerald), [Klein](https://github.com/klein/klein.php),
   [Zaphpa](http://zaphpa.org/)
