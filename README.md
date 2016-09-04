@@ -118,7 +118,8 @@ awesome-sinatra [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38
 
 > Key-value
 
-* [redis-sinatra](https://github.com/redis-store/redis-sinatra) - Redis stores for Sinatra. 
+* [redis-sinatra](https://github.com/redis-store/redis-sinatra) - Redis stores for Sinatra.
+* [riak-browser](https://github.com/jlambert121/riak-browser) - A simple ruby/Sinatra Riak browser and editor. 
 
 ## ORM
 
