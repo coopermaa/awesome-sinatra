@@ -21,7 +21,9 @@ awesome-sinatra [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38
   Sinatra website and documentation sources published at http://sinatra.github.com/.
 * [Sinatra mailing list](http://groups.google.com/group/sinatrarb/topics)
 
-## Bloggig
+## Blogging
+
+* [Scanty](https://github.com/adamwiggins/scanty) - A really small blogging software.
 
 ## Micro Frameworks inspired by Sinatra
 
