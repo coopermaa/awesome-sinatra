@@ -102,3 +102,9 @@ awesome-sinatra [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38
   [Zaphpa](http://zaphpa.org/)
 * Python: [itty](https://github.com/toastdriven/itty), [Flask](https://github.com/pallets/flask)
 * Scala: [Finatra](https://github.com/twitter/finatra), [Scalatra](https://github.com/scalatra/scalatra)
+
+## License
+
+[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+
+To the extent possible under law, [coopermaa](http://coopermaa2nd.blogspot.tw/) has waived all copyright and related or neighboring rights to this work.
