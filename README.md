@@ -7,6 +7,7 @@ awesome-sinatra [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38
 
 - [General](#general)
 - [Blogging](#blogging)
+- [File Uploading](#file-uploading)
 - [Micro Frameworks inspired by Sinatra](#micro-frameworks-inspired-by-sinatra)
 - [Micro Frameworks inspired by Sinatra (Other Languages)](#micro-frameworks-inspired-by-sinatra-other-languages)
 
@@ -32,6 +33,8 @@ awesome-sinatra [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38
 * [Sinandra](https://github.com/groupdock/sinandra) - A blog engine using Sinatra and Cassandra.
 * [Wind](https://github.com/wagnerandrade/wind) - HTML5 blog engine focused in a easy, extensible and fast admin.
 * [Yet-another-Sinatra-Blog-Engine](https://github.com/multikatt/Yet-another-Sinatra-Blog-Engine) - A simple blog engine written in Ruby using Sinatra.
+
+## File Uploading
 
 ## Micro Frameworks inspired by Sinatra
 
