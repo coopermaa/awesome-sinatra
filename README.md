@@ -27,3 +27,6 @@ awesome-sinatra [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38
    Hobbit is a DSL inspired by Sinatra. (~ 150 LOC).
 * [Sin](https://github.com/raggi/sin) - A multi-app web-app DSL derived from Sinatra, riding on rack.
   Sin is a rebuild of sinatra, splitting up the classes into files and going for a reusable application class.
+* [Scorched](https://github.com/Wardrop/Scorched) - Light-weight, DRY as a desert, web framework for Ruby. Simliar to Sinatra. 
+  Scorched is a true evolutionary enhancement of Sinatra, with more power, focus, and less clutter.
+  
