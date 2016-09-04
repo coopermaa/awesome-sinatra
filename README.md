@@ -130,6 +130,7 @@ awesome-sinatra [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38
 > Document
 
 * [sinatra-mongo](https://github.com/technicalpickles/sinatra-mongo) - A light extension to sinatra for using mongo.
+* [sinatra-mongoid](https://github.com/croaky/sinatra-mongoid) - A Mongoid (ODM, Object-Document-Mapper for MongoDB) extension for Sinatra.
 
 > Key-value
 
