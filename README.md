@@ -113,6 +113,7 @@ awesome-sinatra [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38
 
 * [beach](https://github.com/willrax/beach) - Small Sinatra app to host web hooks for Slack.
 * [dogetip-slack](https://github.com/tenforwardconsulting/dogetip-slack) - Sinatra app to enable Dogecoin tipping via slack
+* [doorbell-server](https://github.com/Lostmyname/doorbell-server) - Simple Sinatra app which acts a bridge between Slack and the LMN doorbell.
 * [snarkov](https://github.com/gesteves/snarkov) - Sinatra-based Markov bot for Slack. 
 
 ## Wiki Engine
