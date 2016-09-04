@@ -76,6 +76,7 @@ awesome-sinatra [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38
 * [sinatra-boilerplate](https://github.com/mislav/sinatra-boilerplate) - Sinatra + Haml + Sass + Compass + Bourbon + CoffeeScript.
 * [sinatra-foundation-skeleton](https://github.com/jerodsanto/sinatra-foundation-skeleton) - A skeleton 
   Sinatra application which utilizes Zurb's Foundation 3 framework.
+* [sinatra-template](https://github.com/zapnap/sinatra-template) - A base Sinatra application template with DataMapper, and RSpec.
 * [sinatra-twitter-bootstrap](https://github.com/mfojtik/sinatra-twitter-bootstrap) - Twitter Bootstrap Sinatra extension with HAML helpers.  
 
 ## Continuous Integration
