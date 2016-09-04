@@ -23,6 +23,8 @@ awesome-sinatra [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38
 
 ## Blogging
 
+* [Marley](https://github.com/karmi/marley) - Minimalist blogging engine without textareas based on 
+  Markdown, Ruby, Sinatra and Git push hooks.
 * [Scanty](https://github.com/adamwiggins/scanty) - A really small blogging software.
 
 ## Micro Frameworks inspired by Sinatra
