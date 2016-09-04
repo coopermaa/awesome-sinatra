@@ -112,6 +112,7 @@ awesome-sinatra [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38
 ## ORM
 
 * [sinatra-activerecord](https://github.com/janko-m/sinatra-activerecord) - Extends Sinatra with ActiveRecord helper methods and Rake tasks.
+* [sinatra-datamapper](https://github.com/jmkeyes/sinatra-datamapper) - A Sinatra extension for DataMapper ORM support.
 
 ## Service Integration
 
