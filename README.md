@@ -82,6 +82,8 @@ awesome-sinatra [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38
 
 ## Internet Application Clones
 
+* [shorty](https://github.com/croaky/shorty) - URL shortener written in Sinatra & MongoDB.
+
 ## Micro Frameworks inspired by Sinatra
 
 * [Angelo](https://github.com/kenichi/angelo) - Sinatra-like DSL for Reel that supports WebSockets and SSE
