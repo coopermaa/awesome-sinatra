@@ -28,6 +28,7 @@ awesome-sinatra [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38
 * [Postview](https://github.com/hallison/postview) - A simple blog-engine that render text files written in Markdown.  
 * [Scanty](https://github.com/adamwiggins/scanty) - A really small blogging software.
 * [Scanty with CouchDB](https://github.com/jtulloch/scanty) - Scanty using CouchDB.
+* [Wind](https://github.com/wagnerandrade/wind) - HTML5 blog engine focused in a easy, extensible and fast admin.
 
 ## Micro Frameworks inspired by Sinatra
 
