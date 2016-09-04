@@ -141,6 +141,11 @@ awesome-sinatra [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38
 * [doorbell-server](https://github.com/Lostmyname/doorbell-server) - Simple Sinatra app which acts a bridge between Slack and the LMN doorbell.
 * [snarkov](https://github.com/gesteves/snarkov) - Sinatra-based Markov bot for Slack. 
 
+> MISC
+
+* [shopify-sinatra-app](https://github.com/kevinhughes27/shopify-sinatra-app) - Lightweight extension for
+  building Shopify apps using Sinatra
+
 ## Stylesheets
 
 * [sinatra-compass](https://github.com/rkh/sinatra-compass) - Integrates the Compass stylesheet framework with Sinatra.
