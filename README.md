@@ -82,6 +82,7 @@ awesome-sinatra [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38
 
 ## Internet Application Clones
 
+* [chirp](https://github.com/sausheong/chirp) - Simple Sinatra-based micro-blog/Twitter clone.
 * [shorty](https://github.com/croaky/shorty) - URL shortener written in Sinatra & MongoDB.
 
 ## Micro Frameworks inspired by Sinatra
