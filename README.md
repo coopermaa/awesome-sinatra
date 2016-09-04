@@ -6,7 +6,7 @@ awesome-sinatra [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38
 # Contents
 
 - [General](#general)
-- [Frameworks inspired by Sinatra](#frameworks-inspired-by-sinatra)
+- [Micro Frameworks inspired by Sinatra](#micro-frameworks-inspired-by-sinatra)
 
 ## General
 
@@ -19,7 +19,7 @@ awesome-sinatra [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38
   Sinatra website and documentation sources published at http://sinatra.github.com/.
 * [Sinatra mailing list](http://groups.google.com/group/sinatrarb/topics)
 
-## Frameworks inspired by Sinatra
+## Micro Frameworks inspired by Sinatra
 
 * [Angelo](https://github.com/kenichi/angelo) - Sinatra-like DSL for Reel that supports WebSockets and SSE
   in their own thread, called "cells" (or actors). 
