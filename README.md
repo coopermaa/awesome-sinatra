@@ -23,3 +23,5 @@ awesome-sinatra [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38
 
 * [Hobbit](https://github.com/patriciomacadden/hobbit) - A minimalistic microframework built on top of Rack (thanks to `Rack::Builder`).
    Hobbit is a DSL inspired by Sinatra. (~ 150 LOC).
+* [Sin](https://github.com/raggi/sin) - A multi-app web-app DSL derived from Sinatra, riding on rack.
+  Sin is a rebuild of sinatra, splitting up the classes into files and going for a reusable application class.
