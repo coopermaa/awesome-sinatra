@@ -13,6 +13,7 @@ awesome-sinatra [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38
 - [File Uploading](#file-uploading)
 - [Micro Frameworks inspired by Sinatra](#micro-frameworks-inspired-by-sinatra)
 - [Micro Frameworks inspired by Sinatra (Other Languages)](#micro-frameworks-inspired-by-sinatra-other-languages)
+- [Service Integration](#service-integration)
 - [Wiki Engine](#wiki-engine)
 
 ## General
@@ -105,6 +106,8 @@ awesome-sinatra [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38
   [Zaphpa](http://zaphpa.org/)
 * Python: [itty](https://github.com/toastdriven/itty), [Flask](https://github.com/pallets/flask)
 * Scala: [Finatra](https://github.com/twitter/finatra), [Scalatra](https://github.com/scalatra/scalatra)
+
+## Service Integration
 
 ## Wiki Engine
 
