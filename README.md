@@ -174,6 +174,7 @@ awesome-sinatra [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38
 
 * [Pliny](https://github.com/interagent/pliny) - Pliny helps Ruby developers write and maintain excellent APIs.
 * [pliny-template](https://github.com/interagent/pliny-template) - Base Sinatra app for writing excellent APIs in Ruby
+* [sinatra-hat](https://github.com/nakajima/sinatras-hat) - Easy REST-ful apps with Sinatra. Mount models as web services.
 * [sinatra-reset](https://github.com/blindgaenger/sinatra-rest) - Generates RESTful routes for the models of a 
   Sinatra application (ActiveRecord, DataMapper, Stone)
 
