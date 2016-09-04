@@ -169,6 +169,8 @@ awesome-sinatra [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38
 
 ## Writing APIs
 
+* [Pliny](https://github.com/interagent/pliny) - Pliny helps Ruby developers write and maintain excellent APIs.
+
 ## License
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
