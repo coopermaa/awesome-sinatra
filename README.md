@@ -30,7 +30,7 @@ awesome-sinatra [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38
 * [Scanty](https://github.com/adamwiggins/scanty) - A really small blogging software.
 * [Scanty with CouchDB](https://github.com/jtulloch/scanty) - Scanty using CouchDB.
 * [Wind](https://github.com/wagnerandrade/wind) - HTML5 blog engine focused in a easy, extensible and fast admin.
-
+* [Yet-another-Sinatra-Blog-Engine](https://github.com/multikatt/Yet-another-Sinatra-Blog-Engine) - A simple blog engine written in Ruby using Sinatra.
 
 ## Micro Frameworks inspired by Sinatra
 
