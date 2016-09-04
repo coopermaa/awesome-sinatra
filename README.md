@@ -28,6 +28,8 @@ awesome-sinatra [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38
 ## Authroization
 
 * [Sinatra Authorization](https://github.com/integrity/sinatra-authorization) - HTTP Authorization helpers for Sinatra.
+* [Sinatra-authorize](https://github.com/gnab/sinatra-authorize) - Smooth authentication-agnostic rule-based 
+  authorization extension for Sinatra.
 
 ## Blogging
 
