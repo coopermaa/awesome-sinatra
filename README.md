@@ -111,6 +111,7 @@ awesome-sinatra [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38
 
 > Slack
 
+* [beach](https://github.com/willrax/beach) - Small Sinatra app to host web hooks for Slack.
 * [snarkov](https://github.com/gesteves/snarkov) - Sinatra-based Markov bot for Slack. 
 
 ## Wiki Engine
