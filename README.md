@@ -64,6 +64,9 @@ awesome-sinatra [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38
 
 ## Boilerplate and Template
 
+* [sinatra-boilerplate](https://github.com/karlcoelho/sinatra-boilerplate) - Starter Kit for Sinatra Apps. It uses
+  [Twitter Bootstrap 3](http://getbootstrap.com/), [jQuery](http://jquery.com/) and [Modernizr](http://modernizr.com/) 
+
 ## Continuous Integration
 
 * [Integrity](https://github.com/integrity/integrity) - A continuous integration server.
