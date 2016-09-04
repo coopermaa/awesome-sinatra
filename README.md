@@ -36,6 +36,9 @@ awesome-sinatra [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38
 
 ## File Uploading
 
+* [CarrierWave](https://github.com/carrierwaveuploader/carrierwave) - A classier solution for file uploads for Rails,
+  Sinatra and other Ruby web frameworks.
+
 ## Micro Frameworks inspired by Sinatra
 
 * [Angelo](https://github.com/kenichi/angelo) - Sinatra-like DSL for Reel that supports WebSockets and SSE
