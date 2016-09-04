@@ -109,6 +109,10 @@ awesome-sinatra [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38
 
 ## Service Integration
 
+> Slack
+
+* [snarkov](https://github.com/gesteves/snarkov) - Sinatra-based Markov bot for Slack. 
+
 ## Wiki Engine
 
 * [bliki](https://github.com/bomberstudios/bliki) - A small blog + wiki engine built on Sinatra + Stone.
