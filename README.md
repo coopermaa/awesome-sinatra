@@ -44,6 +44,7 @@ awesome-sinatra [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38
 
 * [hancock](https://github.com/atmos/hancock/) - An OpenID based Single Sign On server with a simple API, written in Sinatra   
 * [hancock-client](https://github.com/atmos/hancock-client) - A sinatra app and rack middleware piece for the hancock SSO server
+* [sinatra-oauth-provider](https://github.com/eddanger/sinatra-oauth-provider) - A Sinatra OAuth Provider.
 
 ## Blogging
 
