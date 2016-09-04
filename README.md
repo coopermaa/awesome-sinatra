@@ -27,6 +27,7 @@ awesome-sinatra [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38
   and targets larger applications.
 * [Hobbit](https://github.com/patriciomacadden/hobbit) - A minimalistic microframework built on top of Rack (thanks to `Rack::Builder`).
    Hobbit is a DSL inspired by Sinatra. (~ 150 LOC).
+* [Nancy](https://github.com/guilleiguaran/nancy) - Minimal Ruby microframework for web development inspired in `Sinatra` and `Cuba` (~150 LOC).
 * [Rack::App](https://github.com/rack-app/rack-app) - Bare bone minimalistic (masochistic) pico framework for building rack apps.
   Inspired by sinatra, grape and the pure use form of Rack.  
 * [Sin](https://github.com/raggi/sin) - A multi-app web-app DSL derived from Sinatra, riding on rack.
