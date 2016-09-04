@@ -116,6 +116,10 @@ awesome-sinatra [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38
 
 * [sinatra-mongo](https://github.com/technicalpickles/sinatra-mongo) - A light extension to sinatra for using mongo.
 
+> Key-value
+
+* [redis-sinatra](https://github.com/redis-store/redis-sinatra) - Redis stores for Sinatra. 
+
 ## ORM
 
 * [sinatra-activerecord](https://github.com/janko-m/sinatra-activerecord) - Extends Sinatra with ActiveRecord helper methods and Rake tasks.
