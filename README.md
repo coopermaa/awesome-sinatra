@@ -9,6 +9,7 @@ awesome-sinatra [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38
 - [Authroization](#authroization)
 - [Authentication](#authentication)
 - [Blogging](#blogging)
+- [Boilerplate and Template](#boilerplate-and-template)
 - [Continous Integration](#continous Integration)
 - [CMS](#cms)
 - [File Uploading](#file-uploading)
@@ -60,6 +61,8 @@ awesome-sinatra [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38
 * [Sinandra](https://github.com/groupdock/sinandra) - A blog engine using Sinatra and Cassandra.
 * [Wind](https://github.com/wagnerandrade/wind) - HTML5 blog engine focused in a easy, extensible and fast admin.
 * [Yet-another-Sinatra-Blog-Engine](https://github.com/multikatt/Yet-another-Sinatra-Blog-Engine) - A simple blog engine written in Ruby using Sinatra.
+
+## Boilerplate and Template
 
 ## Continuous Integration
 
