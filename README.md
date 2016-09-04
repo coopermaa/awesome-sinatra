@@ -55,6 +55,7 @@ awesome-sinatra [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38
 * Julia: [Moresel.jl](https://github.com/JuliaArchive/Morsel.jl)
 * Lua: [Mercury](https://github.com/nrk/mercury), [Orbit](http://keplerproject.github.io/orbit/)
 * .NET: [Martini](https://github.com/thegrubbsian/Martin), [Nina](https://github.com/jondot/Nina)
+* Perl: [Dancer](https://github.com/PerlDancer/Dancer2), [Mojolicious](https://github.com/kraih/mojo)
 * PHP: [FatFree](https://github.com/bcosca/fatfree), [Fitzgerald](https://github.com/gregmolnar/fitzgerald), [Klein](https://github.com/klein/klein.php),
   [Zaphpa](http://zaphpa.org/)
 * Python: [itty](https://github.com/toastdriven/itty), [Flask](https://github.com/pallets/flask)
