@@ -120,6 +120,7 @@ awesome-sinatra [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38
 ## Stylesheets
 
 * [sinatra-compass](https://github.com/rkh/sinatra-compass) - Integrates the Compass stylesheet framework with Sinatra.
+* [haml-more](https://github.com/rkh/haml-more) - Adds more functionality to Haml and Sass.
 
 ## Wiki Engine
 
