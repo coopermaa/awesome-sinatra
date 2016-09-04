@@ -40,11 +40,13 @@ awesome-sinatra [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38
 ## Micro Frameworks inspired by Sinatra (Other Languages)
 
 * Bash: [Astley](https://github.com/matschaffer/astley), [sh.inatra](https://github.com/emasaka/sh.inatra)
+* Clojure: [Compojure](https://github.com/weavejester/compojure)
 * CoffeeScript: [Zappa](https://github.com/mauricemach/zappa)
 * Dart: [Start](https://github.com/lvivski/start)
 * Erlang: [Fresh](https://github.com/devinus/fresh), [Spooky](https://github.com/flashingpumpkin/spooky)
 * Go: [Martini](https://github.com/go-martini/martini), [Spooky](https://github.com/flashingpumpkin/spooky)
 * Groovy: [Graffiti](https://github.com/webdevwilson/graffiti)
+* Java: [Spark](https://github.com/perwendel/spark) 
 * JavaScript: [Express](https://github.com/expressjs/express), [Sammy](https://github.com/quirkey/sammy)
 * .NET: [Martini](https://github.com/thegrubbsian/Martin), [Nina](https://github.com/jondot/Nina)
 * PHP: [FatFree](https://github.com/bcosca/fatfree), [Fitzgerald](https://github.com/gregmolnar/fitzgerald), [Klein](https://github.com/klein/klein.php),
