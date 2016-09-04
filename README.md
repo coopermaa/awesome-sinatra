@@ -34,6 +34,7 @@ awesome-sinatra [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38
 ## Blogging
 
 * [Blorgit](https://github.com/eschulte/blorgit) - A simple org-mode based, git amenable, blogging engine running on sinatra.
+* [Haze](https://github.com/madx/haze) - A minimalistic blogging engine, the successor of Honk (~200 LOC). 
 * [Honk](https://github.com/madx/honk) - A minimalistic, YAML, text-based blogging engine.
 * [Marley](https://github.com/karmi/marley) - Minimalist blogging engine without textareas based on 
   Markdown, Ruby, Sinatra and Git push hooks.
