@@ -7,6 +7,7 @@ awesome-sinatra [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38
 
 - [General](#general)
 - [Micro Frameworks inspired by Sinatra](#micro-frameworks-inspired-by-sinatra)
+- [Micro Frameworks inspired by Sinatra (Other Languages)](#micro-frameworks-inspired-by-sinatra-other-languages)
 
 ## General
 
@@ -35,3 +36,7 @@ awesome-sinatra [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38
   Sin is a rebuild of sinatra, splitting up the classes into files and going for a reusable application class.
 * [Scorched](https://github.com/Wardrop/Scorched) - Light-weight, DRY as a desert, web framework for Ruby. Simliar to Sinatra. 
   Scorched is a true evolutionary enhancement of Sinatra, with more power, focus, and less clutter.
+
+## Micro Frameworks inspired by Sinatra (Other Languages)
+
+* Bash: [Astley](https://github.com/matschaffer/astley), [sh.inatra](https://github.com/emasaka/sh.inatra)
