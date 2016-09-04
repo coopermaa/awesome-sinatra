@@ -112,6 +112,10 @@ awesome-sinatra [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38
 
 ## NoSQL
 
+> Column
+
+* [Sinandra](https://github.com/groupdock/sinandra) - A blog engine using Sinatra and Cassandra.
+
 > Document
 
 * [sinatra-mongo](https://github.com/technicalpickles/sinatra-mongo) - A light extension to sinatra for using mongo.
