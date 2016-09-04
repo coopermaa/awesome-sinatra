@@ -23,12 +23,14 @@ awesome-sinatra [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38
 
 ## Blogging
 
+* [Blorgit](https://github.com/eschulte/blorgit) - A simple org-mode based, git amenable, blogging engine running on sinatra.
 * [Marley](https://github.com/karmi/marley) - Minimalist blogging engine without textareas based on 
   Markdown, Ruby, Sinatra and Git push hooks.
 * [Postview](https://github.com/hallison/postview) - A simple blog-engine that render text files written in Markdown.  
 * [Scanty](https://github.com/adamwiggins/scanty) - A really small blogging software.
 * [Scanty with CouchDB](https://github.com/jtulloch/scanty) - Scanty using CouchDB.
 * [Wind](https://github.com/wagnerandrade/wind) - HTML5 blog engine focused in a easy, extensible and fast admin.
+
 
 ## Micro Frameworks inspired by Sinatra
 
