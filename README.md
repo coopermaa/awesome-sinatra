@@ -40,6 +40,7 @@ awesome-sinatra [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38
 ## Micro Frameworks inspired by Sinatra (Other Languages)
 
 * Bash: [Astley](https://github.com/matschaffer/astley), [sh.inatra](https://github.com/emasaka/sh.inatra)
+* CoffeeScript: [Zappa](https://github.com/mauricemach/zappa)
 * Dart: [Start](https://github.com/lvivski/start)
 * Go: [Martini](https://github.com/go-martini/martini), [Spooky](https://github.com/flashingpumpkin/spooky)
 * Groovy: [Graffiti](https://github.com/webdevwilson/graffiti)
