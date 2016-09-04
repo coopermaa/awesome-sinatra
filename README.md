@@ -112,6 +112,10 @@ awesome-sinatra [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38
 
 ## NoSQL
 
+> Document
+
+* [sinatra-mongo](https://github.com/technicalpickles/sinatra-mongo) - A light extension to sinatra for using mongo.
+
 ## ORM
 
 * [sinatra-activerecord](https://github.com/janko-m/sinatra-activerecord) - Extends Sinatra with ActiveRecord helper methods and Rake tasks.
