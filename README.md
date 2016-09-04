@@ -14,6 +14,7 @@ awesome-sinatra [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38
 - [Micro Frameworks inspired by Sinatra](#micro-frameworks-inspired-by-sinatra)
 - [Micro Frameworks inspired by Sinatra (Other Languages)](#micro-frameworks-inspired-by-sinatra-other-languages)
 - [Service Integration](#service-integration)
+- [Stylesheets](#stylesheets)
 - [Wiki Engine](#wiki-engine)
 
 ## General
@@ -115,6 +116,8 @@ awesome-sinatra [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38
 * [dogetip-slack](https://github.com/tenforwardconsulting/dogetip-slack) - Sinatra app to enable Dogecoin tipping via slack
 * [doorbell-server](https://github.com/Lostmyname/doorbell-server) - Simple Sinatra app which acts a bridge between Slack and the LMN doorbell.
 * [snarkov](https://github.com/gesteves/snarkov) - Sinatra-based Markov bot for Slack. 
+
+## Stylesheets
 
 ## Wiki Engine
 
