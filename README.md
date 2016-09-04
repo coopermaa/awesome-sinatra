@@ -153,6 +153,8 @@ awesome-sinatra [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38
 
 > MISC
 
+* [frankie](https://github.com/deadprogram/frankie) - a Sinatra plugin allows you to easily create a 
+  Facebook application.
 * [shopify-sinatra-app](https://github.com/kevinhughes27/shopify-sinatra-app) - Lightweight extension for
   building Shopify apps using Sinatra
 
@@ -172,6 +174,8 @@ awesome-sinatra [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38
 
 * [Pliny](https://github.com/interagent/pliny) - Pliny helps Ruby developers write and maintain excellent APIs.
 * [pliny-template](https://github.com/interagent/pliny-template) - Base Sinatra app for writing excellent APIs in Ruby
+* [sinatra-reset](https://github.com/blindgaenger/sinatra-rest) - Generates RESTful routes for the models of a 
+  Sinatra application (ActiveRecord, DataMapper, Stone)
 
 ## License
 
