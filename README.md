@@ -46,6 +46,10 @@ awesome-sinatra [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38
 ## Continuous Integration
 
 * [Integrity](https://github.com/integrity/integrity) - A continuous integration server.
+* [Travis CI](https://github.com/travis-ci/travis-ci) - Free continuous integration platform for GitHub projects.
+  Some sub-projects of Travis CI uses Sinatra, including [travis-api](https://github.com/travis-ci/travis-api),
+  [travis-listener](https://github.com/travis-ci/travis-listener), [travis-logs](https://github.com/travis-ci/travis-logs)
+  , [travis-build](https://github.com/travis-ci/travis-build) and [travis-web](https://github.com/travis-ci/travis-web)
 
 ## CMS
 
