@@ -6,6 +6,7 @@ awesome-sinatra [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38
 # Contents
 
 - [General](#general)
+- [Blogging](#blogging)
 - [Micro Frameworks inspired by Sinatra](#micro-frameworks-inspired-by-sinatra)
 - [Micro Frameworks inspired by Sinatra (Other Languages)](#micro-frameworks-inspired-by-sinatra-other-languages)
 
@@ -19,6 +20,8 @@ awesome-sinatra [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38
 * [sinatra.github.com repo](https://github.com/sinatra/sinatra.github.com/) - This repo contains the 
   Sinatra website and documentation sources published at http://sinatra.github.com/.
 * [Sinatra mailing list](http://groups.google.com/group/sinatrarb/topics)
+
+## Bloggig
 
 ## Micro Frameworks inspired by Sinatra
 
