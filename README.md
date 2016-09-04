@@ -46,6 +46,8 @@ awesome-sinatra [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38
 * CoffeeScript: [Zappa](https://github.com/mauricemach/zappa)
 * Dart: [Start](https://github.com/lvivski/start)
 * Erlang: [Fresh](https://github.com/devinus/fresh), [Spooky](https://github.com/flashingpumpkin/spooky)
+* Haskell: [Bird](https://github.com/moonmaster9000/bird), [Miku](https://github.com/nfjinjing/miku),
+  [Scotty](https://github.com/scotty-web/scotty)
 * Go: [Martini](https://github.com/go-martini/martini), [Spooky](https://github.com/flashingpumpkin/spooky)
 * Groovy: [Graffiti](https://github.com/webdevwilson/graffiti)
 * Java: [Spark](https://github.com/perwendel/spark) 
