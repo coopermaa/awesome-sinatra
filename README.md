@@ -41,6 +41,7 @@ awesome-sinatra [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38
 
 * Bash: [Astley](https://github.com/matschaffer/astley), [sh.inatra](https://github.com/emasaka/sh.inatra)
 * C: [Bogart](https://github.com/tyler/Bogart)
+* C++: [Garland](https://github.com/MarMarAba/Garland)
 * Clojure: [Compojure](https://github.com/weavejester/compojure)
 * CoffeeScript: [Zappa](https://github.com/mauricemach/zappa)
 * Dart: [Start](https://github.com/lvivski/start)
