@@ -6,6 +6,7 @@ awesome-sinatra [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38
 # Contents
 
 - [General](#general)
+- [Frameworks inspired by Sinatra](#frameworks-inspired-by-sinatra)
 
 ## General
 
@@ -17,3 +18,8 @@ awesome-sinatra [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38
 * [sinatra.github.com repo](https://github.com/sinatra/sinatra.github.com/) - This repo contains the 
   Sinatra website and documentation sources published at http://sinatra.github.com/.
 * [Sinatra mailing list](http://groups.google.com/group/sinatrarb/topics)
+
+## Frameworks inspired by Sinatra
+
+* [Hobbit](https://github.com/patriciomacadden/hobbit) - A minimalistic microframework built on top of Rack (thanks to `Rack::Builder`).
+   Hobbit is a DSL inspired by Sinatra. (~ 150 LOC).
