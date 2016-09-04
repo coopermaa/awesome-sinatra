@@ -6,6 +6,7 @@ awesome-sinatra [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38
 # Contents
 
 - [General](#general)
+- [Authroization](#authroization)
 - [Blogging](#blogging)
 - [Continous Integration](#continous Integration)
 - [CMS](#cms)
@@ -24,6 +25,8 @@ awesome-sinatra [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38
   Sinatra website and documentation sources published at http://sinatra.github.com/.
 * [Sinatra mailing list](http://groups.google.com/group/sinatrarb/topics)
 
+## Authroization
+
 ## Blogging
 
 * [Blorgit](https://github.com/eschulte/blorgit) - A simple org-mode based, git amenable, blogging engine running on sinatra.
@@ -37,6 +40,8 @@ awesome-sinatra [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38
 * [Yet-another-Sinatra-Blog-Engine](https://github.com/multikatt/Yet-another-Sinatra-Blog-Engine) - A simple blog engine written in Ruby using Sinatra.
 
 ## Continuous Integration
+
+* [Integrity](https://github.com/integrity/integrity) - A continuous integration server.
 
 ## CMS
 
