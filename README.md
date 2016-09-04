@@ -27,6 +27,7 @@ awesome-sinatra [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38
   Markdown, Ruby, Sinatra and Git push hooks.
 * [Postview](https://github.com/hallison/postview) - A simple blog-engine that render text files written in Markdown.  
 * [Scanty](https://github.com/adamwiggins/scanty) - A really small blogging software.
+* [Scanty with CouchDB](https://github.com/jtulloch/scanty) - Scanty using CouchDB.
 
 ## Micro Frameworks inspired by Sinatra
 
