@@ -19,6 +19,7 @@ awesome-sinatra [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38
 - [Service Integration](#service-integration)
 - [Stylesheets](#stylesheets)
 - [Wiki Engine](#wiki-engine)
+- [Writing APIs](#writing-apis)
 
 ## General
 
@@ -165,6 +166,8 @@ awesome-sinatra [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38
 * [git-wiki](https://github.com/sr/git-wiki) - A quick & dirty git-powered Sinatra wiki (~200 LOC).
 * [rikiki](https://github.com/yarmand/rikiki) - Tiny wiki engine using in browser markdown and Sinatra.
 * [Weaky](https://github.com/benatkin/weaky) - A basic CouchDB/Sinatra wiki.
+
+## Writing APIs
 
 ## License
 
