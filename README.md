@@ -108,7 +108,8 @@ awesome-sinatra [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38
 
 ## Wiki Engine
 
-* [git-wiki](https://github.com/sr/git-wiki) - A quick & dirty git-powered Sinatra wiki (~200 LOC). 
+* [git-wiki](https://github.com/sr/git-wiki) - A quick & dirty git-powered Sinatra wiki (~200 LOC).
+* [Weaky](https://github.com/benatkin/weaky) - A basic CouchDB/Sinatra wiki.
 
 ## License
 
