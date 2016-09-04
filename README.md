@@ -27,6 +27,8 @@ awesome-sinatra [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38
 
 ## Authroization
 
+* [Sinatra Authorization](https://github.com/integrity/sinatra-authorization) - HTTP Authorization helpers for Sinatra.
+
 ## Blogging
 
 * [Blorgit](https://github.com/eschulte/blorgit) - A simple org-mode based, git amenable, blogging engine running on sinatra.
