@@ -29,6 +29,8 @@ awesome-sinatra [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38
   and recipes for developing Sinatra web applications. It's git repo is [here](https://github.com/sinatra/sinatra-book)
 * [sinatra.github.com repo](https://github.com/sinatra/sinatra.github.com/) - This repo contains the 
   Sinatra website and documentation sources published at http://sinatra.github.com/.
+* [Sinatra in the wild](https://github.com/sinatra/sinatra.github.com/blob/master/wild.markdown) - Various
+  applications, extensions and websites built with Sinatra.
 * [Sinatra mailing list](http://groups.google.com/group/sinatrarb/topics)
 
 ## Authroization
