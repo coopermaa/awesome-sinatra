@@ -12,6 +12,7 @@ awesome-sinatra [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38
 - [Continous Integration](#continous Integration)
 - [CMS](#cms)
 - [File Uploading](#file-uploading)
+- [Internet Application Clones](#internet-application-clones)
 - [Micro Frameworks inspired by Sinatra](#micro-frameworks-inspired-by-sinatra)
 - [Micro Frameworks inspired by Sinatra (Other Languages)](#micro-frameworks-inspired-by-sinatra-other-languages)
 - [NoSQL](#nosql)
@@ -78,6 +79,8 @@ awesome-sinatra [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38
 
 * [CarrierWave](https://github.com/carrierwaveuploader/carrierwave) - A classier solution for file uploads for Rails,
   Sinatra and other Ruby web frameworks.
+
+## Internet Application Clones
 
 ## Micro Frameworks inspired by Sinatra
 
