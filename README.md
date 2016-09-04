@@ -83,6 +83,8 @@ awesome-sinatra [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38
 
 ## Community Platform
 
+* [sinforum](https://github.com/makevoid/sinforum) - Simple forum build with Sinatra, DataMapper, Haml, SASS and CoffeeScript.
+
 ## Continuous Integration
 
 * [Integrity](https://github.com/integrity/integrity) - A continuous integration server.
