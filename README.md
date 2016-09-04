@@ -39,6 +39,7 @@ awesome-sinatra [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38
 
 * [Nesta](https://github.com/gma/nesta) - A lightweight CMS, implemented in Sinatra. Content can be written
   in Markdown or Textile and stored in text file
+* [Spontaneous](https://github.com/SpontaneousCMS/spontaneous) - An CMS with intuitive, attractive and responsive HTML5 interface  
 
 ## File Uploading
 
