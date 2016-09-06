@@ -180,6 +180,9 @@ awesome-sinatra [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38
 
 ## Routers
 
+* [SimpleRouter](http://github.com/mynyml/simple_router) - Small and simple standalone router, meant for 
+  use with Rack applications. Familiar Sinatra-like DSL for defining actions. Modular architecture.
+
 ## Service Integration
 
 > Slack
