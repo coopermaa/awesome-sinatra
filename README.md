@@ -67,6 +67,7 @@ awesome-sinatra [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38
 ## Boilerplate and Template
 
 * [Frank-Sinatra](https://github.com/Wixel/Frank-Sinatra) - A boilerplate for modular MVC style Sinatra (1.4.2^) applications.
+* [puresong](https://github.com/al-kivi/puresong) - A small Sinatra application that demonstrates use of Pure CSS with SQLite.
 * [ratpack](https://github.com/ashleygwilliams/ratpack) - Sinatra boilerplate using activerecord, sqlite, and twitter bootstrap.
 * [sinatra-boilerplate](https://github.com/karlcoelho/sinatra-boilerplate) - Starter Kit for Sinatra Apps. It uses
   [Twitter Bootstrap 3](http://getbootstrap.com/), [jQuery](http://jquery.com/) and [Modernizr](http://modernizr.com/)
