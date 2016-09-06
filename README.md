@@ -224,6 +224,7 @@ awesome-sinatra [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38
 
 ## Writing APIs
 
+* [API-mock-server](https://github.com/zlx/API-mock-server) - A Full-Featured API Mock Server built with Sinatra and MongoDB.
 * [Pliny](https://github.com/interagent/pliny) - Pliny helps Ruby developers write and maintain excellent APIs.
 * [pliny-template](https://github.com/interagent/pliny-template) - Base Sinatra app for writing excellent APIs in Ruby
 * [sinatra-hat](https://github.com/nakajima/sinatras-hat) - Easy REST-ful apps with Sinatra. Mount models as web services.
