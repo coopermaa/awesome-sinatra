@@ -200,6 +200,9 @@ awesome-sinatra [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38
 
 ## Testing
 
+* [cucumber-sinatra](https://github.com/bernd/cucumber-sinatra) - Help you to initialize a cucumber 
+  environment for a sinatra application. It will generate the required files from templates.
+
 ## Wiki Engine
 
 * [bliki](https://github.com/bomberstudios/bliki) - A small blog + wiki engine built on Sinatra + Stone.
