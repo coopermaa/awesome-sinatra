@@ -60,6 +60,7 @@ awesome-sinatra [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38
 * [Scanty](https://github.com/adamwiggins/scanty) - A really small blogging software.
 * [Scanty with CouchDB](https://github.com/jtulloch/scanty) - Scanty using CouchDB.
 * [scanty-redis](https://github.com/adamwiggins/scanty-redis) - Scanty using redis.
+* [sin](https://github.com/kastner/sin) - A mini blog engine in Sinatra with hAtom and MetaWeblog API and S3 upload support (~160 LOC).
 * [Sinandra](https://github.com/groupdock/sinandra) - A blog engine using Sinatra and Cassandra.
 * [Wind](https://github.com/wagnerandrade/wind) - HTML5 blog engine focused in a easy, extensible and fast admin.
 * [Yet-another-Sinatra-Blog-Engine](https://github.com/multikatt/Yet-another-Sinatra-Blog-Engine) - A simple blog engine written in Ruby using Sinatra.
