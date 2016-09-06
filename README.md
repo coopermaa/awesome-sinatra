@@ -19,6 +19,7 @@ awesome-sinatra [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38
 - [Micro Frameworks inspired by Sinatra (Other Languages)](#micro-frameworks-inspired-by-sinatra-other-languages)
 - [NoSQL](#nosql)
 - [ORM](#orm)
+- [Routers](#routers)
 - [Service Integration](#service-integration)
 - [Stylesheets](#stylesheets)
 - [Testing](#testing)
@@ -176,6 +177,8 @@ awesome-sinatra [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38
 * [sinatra-activerecord](https://github.com/janko-m/sinatra-activerecord) - Extends Sinatra with ActiveRecord helper methods and Rake tasks.
 * [sinatra-datamapper](https://github.com/jmkeyes/sinatra-datamapper) - A Sinatra extension for DataMapper ORM support.
 * [sinatra-sequel](https://github.com/rtomayko/sinatra-sequel) - Sinatra extension that adds Sequel ORM features, database config, and database migrations.
+
+## Routers
 
 ## Service Integration
 
