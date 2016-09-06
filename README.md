@@ -21,6 +21,7 @@ awesome-sinatra [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38
 - [ORM](#orm)
 - [Service Integration](#service-integration)
 - [Stylesheets](#stylesheets)
+- [Testing](#testing)
 - [Wiki Engine](#wiki-engine)
 - [Writing APIs](#writing-apis)
 
@@ -196,6 +197,8 @@ awesome-sinatra [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38
 
 * [sinatra-compass](https://github.com/rkh/sinatra-compass) - Integrates the Compass stylesheet framework with Sinatra.
 * [haml-more](https://github.com/rkh/haml-more) - Adds more functionality to Haml and Sass.
+
+## Testing
 
 ## Wiki Engine
 
