@@ -182,6 +182,7 @@ awesome-sinatra [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38
 
 * [SimpleRouter](http://github.com/mynyml/simple_router) - Small and simple standalone router, meant for 
   use with Rack applications. Familiar Sinatra-like DSL for defining actions. Modular architecture.
+* [sinatra-advanced-routes](https://github.com/rkh/sinatra-advanced-routes) - Make Sinatra routes first class objects (extracted from BigBand).
 * [sinatra-router](https://github.com/brandur/sinatra-router) - A tiny vendorable router that makes it 
   easy to try routes from a number of different modular Sinatra applications
 
