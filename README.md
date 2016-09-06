@@ -180,6 +180,7 @@ awesome-sinatra [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38
 
 ## Routers
 
+* [http_router_sinatra](https://github.com/joshbuddy/http_router_sinatra) - Kick ass router for Sinatra based on http_router.
 * [SimpleRouter](http://github.com/mynyml/simple_router) - Small and simple standalone router, meant for 
   use with Rack applications. Familiar Sinatra-like DSL for defining actions. Modular architecture.
 * [sinatra-advanced-routes](https://github.com/rkh/sinatra-advanced-routes) - Make Sinatra routes first class objects (extracted from BigBand).
