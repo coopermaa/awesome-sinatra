@@ -154,6 +154,7 @@ awesome-sinatra [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38
   [Zaphpa](http://zaphpa.org/)
 * Python: [itty](https://github.com/toastdriven/itty), [Flask](https://github.com/pallets/flask)
 * Scala: [Finatra](https://github.com/twitter/finatra), [Scalatra](https://github.com/scalatra/scalatra)
+* Vala: [Valatra](https://github.com/erik/valatra)
 
 ## NoSQL
 
