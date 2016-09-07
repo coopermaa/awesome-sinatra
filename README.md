@@ -148,7 +148,7 @@ awesome-sinatra [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38
 * JavaScript: [Express](https://github.com/expressjs/express), [Sammy](https://github.com/quirkey/sammy)
 * Julia: [Moresel.jl](https://github.com/JuliaArchive/Morsel.jl)
 * Lua: [Mercury](https://github.com/nrk/mercury), [Orbit](http://keplerproject.github.io/orbit/)
-* .NET: [Martini](https://github.com/thegrubbsian/Martin), [Nina](https://github.com/jondot/Nina)
+* .NET: [Martini](https://github.com/thegrubbsian/Martin), [Nancy](https://github.com/NancyFx/Nancy), [Nina](https://github.com/jondot/Nina)
 * Perl: [Dancer](https://github.com/PerlDancer/Dancer2), [Mojolicious](https://github.com/kraih/mojo)
 * PHP: [FatFree](https://github.com/bcosca/fatfree), [Fitzgerald](https://github.com/gregmolnar/fitzgerald), [Klein](https://github.com/klein/klein.php),
   [Zaphpa](http://zaphpa.org/)
