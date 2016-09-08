@@ -224,6 +224,7 @@ awesome-sinatra [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38
 
 * [bliki](https://github.com/bomberstudios/bliki) - A small blog + wiki engine built on Sinatra + Stone.
 * [git-wiki](https://github.com/sr/git-wiki) - A quick & dirty git-powered Sinatra wiki (~200 LOC).
+* [lilwiki](https://gist.github.com/erikpukinskis/363190) - A small wiki backed by sqlite.
 * [rikiki](https://github.com/yarmand/rikiki) - Tiny wiki engine using in browser markdown and Sinatra.
 * [Weaky](https://github.com/benatkin/weaky) - A basic CouchDB/Sinatra wiki.
 
