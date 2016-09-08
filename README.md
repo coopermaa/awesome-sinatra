@@ -215,6 +215,8 @@ awesome-sinatra [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38
   environment for a sinatra application. It will generate the required files from templates.
 * [mumuki-ruby-server](https://github.com/mumuki/mumuki-ruby-server) - Sinatra server for running Rspec
   tests within [Mumuki](https://github.com/mumuki/mumukit). Mumukit is a Test Server Development Kit.
+* [mock_server](https://github.com/mvemjsun/mock_server) - A lightweight Sinatra application backed by
+   sqlite that can mock ReST responses. Has interface to easily create, search & maintain mocks. 
 * [rspec-sinatra](https://github.com/tansaku/rspec-sinatra) - Help you to initialize a RSpec 
   environment for a sinatra application. It will generate the required files from templates.
 
