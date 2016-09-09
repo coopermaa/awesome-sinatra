@@ -139,6 +139,7 @@ awesome-sinatra [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38
 * CoffeeScript: [Zappa](https://github.com/mauricemach/zappa)
 * Crystal: [frank](https://github.com/manastech/frank), [kemal](https://github.com/sdogruyol/kemal)
 * Dart: [Start](https://github.com/lvivski/start)
+* Elixir: [Plug](https://github.com/elixir-lang/plug), [Spirit](https://github.com/emancu/spirit)
 * Erlang: [Fresh](https://github.com/devinus/fresh), [Spooky](https://github.com/flashingpumpkin/spooky)
 * Haskell: [Bird](https://github.com/moonmaster9000/bird), [Miku](https://github.com/nfjinjing/miku),
   [Scotty](https://github.com/scotty-web/scotty)
