@@ -106,6 +106,8 @@ awesome-sinatra [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38
 
 ## Email
 
+* [sinatra-email-services-server](https://github.com/linhchauatl/sinatra-email-services-server) - An email services server using Sinatra.
+
 ## File Uploading
 
 * [CarrierWave](https://github.com/carrierwaveuploader/carrierwave) - A classier solution for file uploads for Rails,
