@@ -107,6 +107,7 @@ awesome-sinatra [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38
 ## Email
 
 * [sinatra-email-services-server](https://github.com/linhchauatl/sinatra-email-services-server) - An email services server using Sinatra.
+* [sinatra-mailer](https://github.com/foca/sinatra-mailer) - Send emails from Sinatra in a very simple way.
 
 ## File Uploading
 
