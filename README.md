@@ -122,6 +122,8 @@ awesome-sinatra [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38
   Introduced in [Railscasts #368 MiniProfiler](http://railscasts.com/episodes/368-miniprofiler)
 * [racksh](https://github.com/sickill/racksh) - Console for Rack based ruby web apps. It's like 
   script/console in Rails (~ 100 LOC) or merb -i in Merb, but for any app built on Rack. Thanks to Rack::Test::Methods (from rack-test) and Ruby REPLs (pry and irb).
+* [tux](https://github.com/cldwalker/tux) - A sinatra shell to interacte with helpers, view rendering and to 
+  view your app's routes and settings.
 
 ## Email
 
