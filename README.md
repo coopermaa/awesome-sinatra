@@ -114,6 +114,10 @@ awesome-sinatra [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38
 
 ## Debugging and Profiling
 
+* [rack-mini-profiler](https://github.com/MiniProfiler/rack-mini-profiler) - Middleware that displays speed 
+  badge for every html page. A simple but effective mini-profiler for .NET, Ruby, Go and Node.js. 
+  Introduced in [Railscasts #368 MiniProfiler](http://railscasts.com/episodes/368-miniprofiler)
+
 ## Email
 
 * [sinatra-email-services-server](https://github.com/linhchauatl/sinatra-email-services-server) - An email services server using Sinatra.
