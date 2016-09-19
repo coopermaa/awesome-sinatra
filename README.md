@@ -114,6 +114,9 @@ awesome-sinatra [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38
 
 ## Debugging and Profiling
 
+* [Better Errors](https://github.com/charliesome/better_errors) - Better Errors replaces the standard 
+  Rails error page with a much better and more useful error page. It is also usable outside of Rails 
+  in any Rack app as Rack middleware.
 * [rack-mini-profiler](https://github.com/MiniProfiler/rack-mini-profiler) - Middleware that displays speed 
   badge for every html page. A simple but effective mini-profiler for .NET, Ruby, Go and Node.js. 
   Introduced in [Railscasts #368 MiniProfiler](http://railscasts.com/episodes/368-miniprofiler)
