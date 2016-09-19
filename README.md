@@ -117,6 +117,8 @@ awesome-sinatra [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38
 * [rack-mini-profiler](https://github.com/MiniProfiler/rack-mini-profiler) - Middleware that displays speed 
   badge for every html page. A simple but effective mini-profiler for .NET, Ruby, Go and Node.js. 
   Introduced in [Railscasts #368 MiniProfiler](http://railscasts.com/episodes/368-miniprofiler)
+* [racksh](https://github.com/sickill/racksh) - Console for Rack based ruby web apps. It's like 
+  script/console in Rails (~ 100 LOC) or merb -i in Merb, but for any app built on Rack. Thanks to Rack::Test::Methods (from rack-test) and Ruby REPLs (pry and irb).
 
 ## Email
 
