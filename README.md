@@ -114,6 +114,8 @@ awesome-sinatra [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38
 
 ## Debugging and Profiling
 
+> For more, check the "Middlewares for Debugging or Profiling" section in [awesome-rack](https://github.com/coopermaa/awesome-rack)
+
 * [Better Errors](https://github.com/charliesome/better_errors) - Better Errors replaces the standard 
   Rails error page with a much better and more useful error page. It is also usable outside of Rails 
   in any Rack app as Rack middleware.
