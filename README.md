@@ -6,6 +6,7 @@ awesome-sinatra [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38
 # Contents
 
 - [General](#general)
+- [Generators](#generators)
 - [Authroization](#authroization)
 - [Authentication](#authentication)
 - [Blogging](#blogging)
@@ -39,6 +40,8 @@ awesome-sinatra [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38
 * [Sinatra in the wild](https://github.com/sinatra/sinatra.github.com/blob/master/wild.markdown) - Various
   applications, extensions and websites built with Sinatra.
 * [Sinatra mailing list](http://groups.google.com/group/sinatrarb/topics)
+
+## Generators
 
 ## Authroization
 
