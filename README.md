@@ -45,6 +45,7 @@ awesome-sinatra [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38
 
 * [Corneal](https://github.com/thebrianemory/corneal) - A Sinatra app generator with Rails-like simplicity.
 * [Hazel](https://github.com/c7/hazel) - A simple Sinatra app generator, heavily based on snfn.
+* [Snfn](https://github.com/zachpendleton/snfn) - A Sinatra application generator. 
 
 ## Authroization
 
