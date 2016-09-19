@@ -14,6 +14,7 @@ awesome-sinatra [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38
 - [Community platform](#community-platform)
 - [Continous Integration](#continous Integration)
 - [CMS](#cms)
+- [Debugging and Profiling](#debugging-and-profiling)
 - [Email](#email)
 - [File Uploading](#file-uploading)
 - [Internet Application Clones](#internet-application-clones)
@@ -110,6 +111,8 @@ awesome-sinatra [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38
 * [Nesta](https://github.com/gma/nesta) - A lightweight CMS, implemented in Sinatra. Content can be written
   in Markdown or Textile and stored in text file
 * [Spontaneous](https://github.com/SpontaneousCMS/spontaneous) - An CMS with intuitive, attractive and responsive HTML5 interface  
+
+## Debugging and Profiling
 
 ## Email
 
