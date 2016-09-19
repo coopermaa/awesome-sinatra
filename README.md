@@ -43,6 +43,8 @@ awesome-sinatra [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38
 
 ## Generators
 
+* [Corneal](https://github.com/thebrianemory/corneal) - A Sinatra app generator with Rails-like simplicity.
+
 ## Authroization
 
 * [Sinatra Authorization](https://github.com/integrity/sinatra-authorization) - HTTP Authorization helpers for Sinatra.
