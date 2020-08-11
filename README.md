@@ -93,6 +93,7 @@ awesome-sinatra [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38
   Sinatra application which utilizes Zurb's Foundation 3 framework.
 * [sinatra-template](https://github.com/zapnap/sinatra-template) - A base Sinatra application template with DataMapper, and RSpec.
 * [sinatra-twitter-bootstrap](https://github.com/mfojtik/sinatra-twitter-bootstrap) - Twitter Bootstrap Sinatra extension with HAML helpers.  
+* [sinatra_boilerplate](https://github.com/reedstonefood/sinatra_boilerplate) - Simple boilerplate with [Twitter Bootstrap](https://getbootstrap.com/), [Postgres](https://www.postgresql.org/) and [Active Record](https://github.com/rails/rails/tree/master/activerecord). Differs from Ratpack in offering Postgres vs SQLite.
 
 ## Community Platform
 
