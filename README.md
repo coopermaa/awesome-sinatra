@@ -7,7 +7,7 @@ awesome-sinatra [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38
 
 - [General](#general)
 - [Generators](#generators)
-- [Authroization](#authroization)
+- [Authorization](#authorization)
 - [Authentication](#authentication)
 - [Blogging](#blogging)
 - [Boilerplate and Template](#boilerplate-and-template)
@@ -48,7 +48,7 @@ awesome-sinatra [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38
 * [Hazel](https://github.com/c7/hazel) - A simple Sinatra app generator, heavily based on snfn.
 * [Snfn](https://github.com/zachpendleton/snfn) - A Sinatra application generator. 
 
-## Authroization
+## Authorization
 
 * [Sinatra Authorization](https://github.com/integrity/sinatra-authorization) - HTTP Authorization helpers for Sinatra.
 * [Sinatra-authorize](https://github.com/gnab/sinatra-authorize) - Smooth authentication-agnostic rule-based 
